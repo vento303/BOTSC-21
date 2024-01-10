@@ -24,31 +24,31 @@ global.APIKeys = {
 }
 
 //owmner v card
-global.owner = ['6287842991690','6287842991690'] //ur owner number
-global.ownernomer = "6287842991690" //ur owner number2
-global.ownername = "𝙳𝙰𝚁𝚆𝙸𝙽 ✆" //ur owner name
-global.ytname = "@YTKyuuTense" //ur yt chanel name
+global.owner = ['6287790354701','6287790354701'] //ur owner number
+global.ownernomer = "6287790354701" //ur owner number2
+global.ownername = "Vento Project MD ✆" //ur owner name
+global.ytname = "Unknown" //ur yt chanel name
 global.socialm = "jgn spam owner njg" //ur github or insta name
-global.location = "Sulawesi Selatan, Indonesia " //ur location
+global.location = "Sumatera Utara, Indonesia " //ur location
 
 //new
 global.botname = "𝙳𝙰 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿"
-global.ownernumber = '6287842991690'
-global.ownername = '6287842991690'
-global.ownerNumber = ["6287842991690@s.whatsapp.net"]
-global.ownerweb = "https://www.youtube.com/@BG-DARWIN"
-global.websitex = "https://Bakso kontol"
-global.wagc = "https://chat.whatsapp.com/C3YkZzw71SdAZSGMnJxnGR"
+global.ownernumber = '6287790354701'
+global.ownername = '6287790354701'
+global.ownerNumber = ["6287790354701@s.whatsapp.net"]
+global.ownerweb = "https://www.instagram.com/vento.kndy"
+global.websitex = "https://facebook.com/IncikVento"
+global.wagc = "https://chat.whatsapp.com/FQRCHAVBIF4E8hJuNBcKYt"
 global.themeemoji = '🚩'
-global.wm = "𝚆𝙸𝙽 ✆"
-global.wmbot = "𝙱𝚈 𝚆𝙸𝙽𝙽"
-global.botscript = '_Cek YT_\n   _Youtube.com/@BG-DARWIN_' //script link
-global.packname = "𝚆𝙸𝙽𝚃𝙷𝙴𝙱𝙾𝚃 𝚆𝙰𝙽𝙶𝚂𝙰𝙵"
-global.author = "𝚆𝙸𝙽𝚃𝙷𝙴𝙱𝙾𝚃 𝚆𝙰𝙽𝙶𝚂𝙰𝙵"
-global.creator = "6287842991690@s.whatsapp.net"
+global.wm = "Gawr Gura Bot MD ✆"
+global.wmbot = "𝙱𝚈 Gawr Gura Bot"
+global.botscript = '_Cek YT_\n   _Youtube.com/unknown_' //script link
+global.packname = "Gawr Gura MD Bot"
+global.author = "Gawr Gura MD Bot"
+global.creator = "6287790354701@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.hituet = 0
-global.running = "Panel Pterodactyl"
+global.running = "Panel Heroku"
 //media target
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 global.log0 = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur logo pic
